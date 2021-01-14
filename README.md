@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   - [Email Me](seanhong2000@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  - Lived in CA for 5 yrs, currently residing in S. Korea
-  - I'm an adult nerd, love legos and tech hardware
+  - Lived in CA for 5 yrs
   - Love reading non-fictions especially history, philosophy, and politics
   - Learned to play 🎸 🎹 🎻 and clarinet (which unfortunately does not have an emoji)
