@@ -11,6 +11,7 @@ Here are some ideas to get you started:
   - Native mobile programming, mainly Android using Kotlin
   - Python language and its Web and ML frameworks
   - Natural Language Processing 
+  - A few things about Blockchain Development
   - Various subjects that CS student learns during his academic years like algorithms.
 - 👯 I’m looking to collaborate on ...
   - Anything exciting that I could get my hands into 
