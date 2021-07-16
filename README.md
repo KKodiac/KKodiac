@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;💻 &nbsp; Currently a junior in CS at Korea Polytechnic Univ. \
 &nbsp;&nbsp;&nbsp;🎧 &nbsp; Love listening to lofi and randomly going out at nights. \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp; Passionate about bringing new ideas to the world.\
-&nbsp;&nbsp;&nbsp;🛋 &nbsp; Coding is the only thing that I can pull an all-nighter off of. \
+&nbsp;&nbsp;&nbsp;🛋 &nbsp; Coding is the only thing that I can pull an all-nighter off of. 👈 Thats a lie \
 &nbsp;&nbsp;&nbsp;🔥 &nbsp; Excited to be part of the generation that can bring changes to the world just by typing magic acronyms on keyboards.
 
 
