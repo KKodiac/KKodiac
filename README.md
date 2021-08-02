@@ -38,7 +38,7 @@
   <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=KKodiac&hide_border=false&theme=nightowl" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=KKodiac&hide_border=false&theme=nightowl"  />
     </p>
     <p align="center">
   <img height='130px' src="https://github-readme-stats.vercel.app/api?username=KKodiac&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=nightowl" />
