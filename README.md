@@ -34,7 +34,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 </details>
 <br/>
-<details>
   <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
