@@ -43,5 +43,5 @@
   <img height='130px' src="https://github-readme-stats.vercel.app/api?username=KKodiac&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=nightowl" />
 </p>
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKodiac&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKodiac&langs_count=8&layout=compact" />
 </p>
