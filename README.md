@@ -24,7 +24,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/-GCP-000000?style=flat&logo=google-clou
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![RESTAPI](https://img.shields.io/badge/-REST-000000?style=flat&logo=rest)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
