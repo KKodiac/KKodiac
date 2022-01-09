@@ -2,7 +2,7 @@
 
 ### 🚀 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;💻 &nbsp; Currently a junior in CS at Korea Polytechnic Univ. \
+&nbsp;&nbsp;&nbsp;💻 &nbsp; Currently a Senior in CS at Technology Univ., Korea \
 &nbsp;&nbsp;&nbsp;🎧 &nbsp; Love listening to lofi and randomly going out at nights. \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp; Passionate about bringing new ideas to the world.\
 &nbsp;&nbsp;&nbsp;🛋 &nbsp; Coding is the only thing that I can pull an all-nighter off of. 👈 Thats a lie \
@@ -24,7 +24,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![RESTAPI](https://img.shields.io/badge/-REST-000000?style=flat&logo=rest)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 </details>
