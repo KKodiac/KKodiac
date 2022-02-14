@@ -16,8 +16,8 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=Postgres)
+![Swift](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Swift)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=6DB33F)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
