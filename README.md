@@ -11,15 +11,23 @@
 
 
 <details>
-  <summary> <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm studying</b></summary>
+  <summary> <b>🧑🏻‍💻 Some of the technologies I'm studying</b></summary>
   <br/>
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=PostgreSQL)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=SwiftUI)
 ![Combine](https://img.shields.io/badge/-Combine-000000?style=flat&logo=Combine)
+![Swift Package Manager](https://img.shields.io/badge/-SPM-000000?style=flat&logo=SPM)
+
+</details>
+<br/>
+<details>
+  <summary> <b>💻 Some of the technologies I have used </b></summary>
+  <br/>
+  
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=6DB33F)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
@@ -28,6 +36,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 ![RESTAPI](https://img.shields.io/badge/-REST-000000?style=flat&logo=rest)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
+
 </details>
 <br/>
   <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>
