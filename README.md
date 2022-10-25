@@ -16,6 +16,8 @@
 
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=SwiftUI)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=Deign)
+![UIKit](https://img.shields.io/badge/-UIKit-000000?style=flat&logo=UIKit)
 ![Combine](https://img.shields.io/badge/-Combine-000000?style=flat&logo=Combine)
 ![Swift Package Manager](https://img.shields.io/badge/-SPM-000000?style=flat&logo=SPM)
 
