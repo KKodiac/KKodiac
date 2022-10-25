@@ -51,5 +51,4 @@
 <img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKodiac&langs_count=8&layout=compact&theme=nightowl" />
 </p>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%KKodiac&count_bg=%23FF42A1&title_bg=%23000000&icon=&icon_color=%03a9fc&title=hits&edge_flat=false)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKodiac&count_bg=%23812F92&title_bg=%23325A82&icon=&icon_color=%23E7E7E7&title=hi+there&edge_flat=false)](https://hits.seeyoufarm.com)
