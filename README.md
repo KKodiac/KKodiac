@@ -1,7 +1,7 @@
 ### Hi there 👋 한국분 어서와요 
 
 ### 🚀 &nbsp;About Me
-
+[![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://jolly-freezer-bbf.notion.site/822662f28b614c5cb60b2ba5c2394f64)](https://jolly-freezer-bbf.notion.site/822662f28b614c5cb60b2ba5c2394f64)
 &nbsp;&nbsp;&nbsp;💻 &nbsp; Currently a Senior in CS at Technology Univ., Korea \
 &nbsp;&nbsp;&nbsp;🎧 &nbsp; Love listening to lofi and randomly going out at nights. \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp; Passionate about bringing new ideas to the world.\
