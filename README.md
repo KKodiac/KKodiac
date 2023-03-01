@@ -10,36 +10,50 @@
 
 
 
-<details>
   <summary> <b>🧑🏻‍💻 Some of the technologies I'm studying</b></summary>
   <br/>
+  
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
+![Fastlane](https://img.shields.io/badge/-Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0582CA?style=flat-square)
+![CoreData](https://img.shields.io/badge/-CoreData-00A6FB?style=flat-square&logo=CoreData)
+![Combine](https://img.shields.io/badge/-Combine-003554?style=flat-square&logo=Combine)
+![Alamofire](https://img.shields.io/badge/-Alamofire-A3320B?style=flat-square&logo=Alamofire&logoColor=white)
+![ARKit](https://img.shields.io/badge/-ARKit-241023?style=flat-square&logo=ARKit&logoColor=white)
+![Swift Package Manager](https://img.shields.io/badge/-SwiftPackageManager-FE5000?style=flat-square&logo=SwiftPackageManager)
 
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=SwiftUI)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=Deign)
-![UIKit](https://img.shields.io/badge/-UIKit-000000?style=flat&logo=UIKit)
-![Combine](https://img.shields.io/badge/-Combine-000000?style=flat&logo=Combine)
-![Swift Package Manager](https://img.shields.io/badge/-SPM-000000?style=flat&logo=SPM)
 
-</details>
 <br/>
-<details>
   <summary> <b>💻 Some of the technologies I have used </b></summary>
   <br/>
   
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
+![NASM](https://img.shields.io/badge/-NASM(Mac)-000000?style=flat&logo=assembly)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=PostgreSQL)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitFlow](https://img.shields.io/badge/-GitFlow-000000?style=flat&logo=git&logoColor=F05032)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=6DB33F)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi)
+![Scrapy](https://img.shields.io/badge/-Scrapy-000000?style=flat&logo=scrapy&logoColor=6DB33F)
+![BeautifulSoup](https://img.shields.io/badge/-BS4-000000?style=flat&logo=beautifulsoup&logoColor=6DB33F)
+![Django-REST-Framework](https://img.shields.io/badge/-DRF-000000?style=flat&logo=django&logoColor=6DB33F)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=FCC624)
+![Kali](https://img.shields.io/badge/-Kali-000000?style=flat&logo=kalilinux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 ![RESTAPI](https://img.shields.io/badge/-REST-000000?style=flat&logo=rest)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 
-</details>
 <br/>
   <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>
   <br/>
