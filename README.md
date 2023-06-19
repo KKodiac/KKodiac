@@ -21,6 +21,7 @@
 ![Alamofire](https://img.shields.io/badge/-Alamofire-A3320B?style=flat-square&logo=Alamofire&logoColor=white)
 ![ARKit](https://img.shields.io/badge/-ARKit-241023?style=flat-square&logo=ARKit&logoColor=white)
 ![RealityKit](https://img.shields.io/badge/-RealityKit-303303?style=flat-square&logo=RealityKit&logoColor=white)
+![Vapor](https://img.shields.io/badge/-Vapor-203883?style=flat-square&logo=Vapor&logoColor=white)
 ![Swift Package Manager](https://img.shields.io/badge/-SwiftPackageManager-FE5000?style=flat-square&logo=SwiftPackageManager)
 
 
